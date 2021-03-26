@@ -8,15 +8,17 @@ I'm a geek currently studying Computer Science at the University of Trento.
 [
   ![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ](https://t.me/emanuelenardi)
+[
+  ![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+](https://www.instagram.com/emanuelenardiph/)
 
 <center>
 
 [
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=emanuelenardi&show_icons=true)
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=emanuelenardi&show_icons=true&theme=default)
 ](https://github.com/emanuelenardi)
 
 </center>
-
 
 <!--
 - 🔭 I'm currently working on ...
