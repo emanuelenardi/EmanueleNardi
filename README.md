@@ -9,6 +9,9 @@ I'm a geek currently studying Computer Science at the University of Trento.
   ![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ](https://t.me/emanuelenardi)
 [
+  ![issuu](https://img.shields.io/badge/Issuu-F36D5D?style=for-the-badge&logo=issuu&logoColor=white)
+](https://issuu.com/nardiemanuele)
+[
   ![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ](https://www.instagram.com/emanuelenardiph/)
 
