@@ -18,7 +18,7 @@ As a UX Developer, I love making users’ lives easier by enhancing workflows an
 
   ### Tools I advocate for
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" height="40" width="40" alt="latex" />
+  <img src="https://raw.githubusercontent.com/emanuelenardi/EmanueleNardi/refs/heads/main/latex-white.svg" height="40" width="40" alt="LaTeX" />
   
   _"I strongly advocate for `LaTeX` as a typesetting system for creating structured, professional, and beautiful documents."_
 
