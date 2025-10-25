@@ -22,7 +22,7 @@ As a UX Developer, I love making users’ lives easier by enhancing workflows an
     <img src="https://raw.githubusercontent.com/emanuelenardi/EmanueleNardi/refs/heads/main/latex-white.svg" width="100" alt="LaTeX" />
   </a>
 
-  _"I strongly advocate for `LaTeX` as a typesetting system for creating structured, professional, and beautiful documents."_
+  I advocate for LaTeX because it lets me turn ideas into clean, structured documents that look as professional as they deserve.
 
   ### Daily workflow
 
@@ -44,7 +44,7 @@ As a UX Developer, I love making users’ lives easier by enhancing workflows an
     </a>
   </p>
 
-  _"These are the tools I use every day to stay organized, productive, and efficient."_
+  These are **the tools I rely on every day** to stay organized, focused, and make progress without losing my mind.
 
   ### Programming languages
 
@@ -60,7 +60,7 @@ As a UX Developer, I love making users’ lives easier by enhancing workflows an
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40" alt="css3" />
   </p>
 
-  _"I solve problems and build user-friendly interfaces using these languages."_
+  I **use these languages** to build interfaces that not only work but _feel_ right — smooth, responsive, and human-friendly.
   
   ### Libraries & Tools
 
@@ -94,7 +94,7 @@ As a UX Developer, I love making users’ lives easier by enhancing workflows an
     </a>
   </p>
 
-  _"These frameworks and libraries help me streamline development and deliver intuitive experiences."_
+  These **frameworks and libraries** are the backbone of my workflow. They help me move faster, keep things tidy, and focus on creating experiences that make sense.
 
   ### Deployment platforms
 
@@ -116,7 +116,7 @@ As a UX Developer, I love making users’ lives easier by enhancing workflows an
     </a>
   </p>
 
-  _"I deploy my projects to these platforms to ensure reliability and accessibility."_
+  I **deploy my projects** where they can run safely, scale easily, and be available whenever someone needs them.
 </div>
 
 ---
