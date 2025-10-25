@@ -27,7 +27,9 @@ As a UX Developer, I love making users’ lives easier by enhancing workflows an
   ### Daily workflow
 
   <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="40" width="40" alt="windows11" />
+    <a href="https://www.microsoft.com/it-it/software-download/windows11" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="40" width="40" alt="windows11" />
+    </a>
     <a href="https://www.latex-project.org/get/" target="_blank" rel="noopener noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="40" alt="vscode" />
     </a>
@@ -37,7 +39,9 @@ As a UX Developer, I love making users’ lives easier by enhancing workflows an
     <a href="https://pnpm.io/it/" target="_blank" rel="noopener noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" height="40" width="40" alt="pnpm" />
     </a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" width="40" alt="bash" />
+    <a href="" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" width="40" alt="bash" />
+    </a>
   </p>
 
   _"These are the tools I use every day to stay organized, productive, and efficient."_
