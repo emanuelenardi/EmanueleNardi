@@ -18,8 +18,10 @@ As a UX Developer, I love making users’ lives easier by enhancing workflows an
 
   ### Tools I advocate for
 
-  <img src="https://raw.githubusercontent.com/emanuelenardi/EmanueleNardi/refs/heads/main/latex-white.svg" height="40" width="40" alt="LaTeX" />
-  
+  <a href="https://www.latex-project.org/get/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/emanuelenardi/EmanueleNardi/refs/heads/main/latex-white.svg" width="100" alt="LaTeX" />
+  </a>
+
   _"I strongly advocate for `LaTeX` as a typesetting system for creating structured, professional, and beautiful documents."_
 
   ### Daily workflow
