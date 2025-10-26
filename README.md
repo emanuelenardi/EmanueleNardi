@@ -29,7 +29,7 @@ As a UX Developer, I love making users’ lives easier by enhancing workflows an
     <a href="https://www.latex-project.org/get/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="40" alt="vscode" /></a>
     <a href="https://www.notion.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="40" width="40" alt="notion" /></a>
     <a href="https://pnpm.io/it/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" height="40" width="40" alt="pnpm" /></a>
-    <a href="" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" width="40" alt="bash" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" width="40" alt="bash" /></a>
   </p>
 
   These are **the tools I rely on every day** to stay organized, focused, and make progress _without_ losing my mind.
@@ -38,10 +38,10 @@ As a UX Developer, I love making users’ lives easier by enhancing workflows an
 
   <p align="center">
     <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40" alt="python" /></a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript" />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" width="40" alt="typescript" /></a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40" alt="html5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40" alt="css3" />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40" alt="html5" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40" alt="css3" /></a>
   </p>
 
   I **use these languages** to build interfaces that not only work but _feel_ right — smooth, responsive, and human-friendly.
