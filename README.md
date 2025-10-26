@@ -87,7 +87,7 @@ As a UX Developer, I love making users’ lives easier by enhancing workflows an
           srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
           media="(prefers-color-scheme: light)" />
         <source
-          srcset="https://raw.githubusercontent.com/emanuelenardi/EmanueleNardi/main/vercel-original.svg"
+          srcset="https://raw.githubusercontent.com/emanuelenardi/EmanueleNardi/main/vercel-original-dark-theme.svg"
           media="(prefers-color-scheme: dark)" />
         <img
           src="https://raw.githubusercontent.com/emanuelenardi/EmanueleNardi/main/vercel-original.svg"
