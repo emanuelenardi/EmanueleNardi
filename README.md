@@ -70,7 +70,8 @@ As a UX Developer, I love making users’ lives easier by enhancing workflows an
 
   I **deploy my projects** where they can run safely, scale easily, and be available whenever someone needs them.
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelenardi&commits_year=2025&hide=prs,issues,contribs&show_icons=true&theme=github_dark#gh-dark-mode-only&theme=rose#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+  [![Emanuele's GitHub stats](https://github-readme-stats-phi-three-56.vercel.app/api?username=emanuelenardi&commits_year=2025&hide=prs&show_icons=true&theme=github_dark#gh-dark-mode-only&theme=rose#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats-phi-three-56.vercel.app/api/top-langs/?username=emanuelenardi&layout=compact&theme=github_dark#gh-dark-mode-only&theme=rose#gh-light-mode-only)
 </div>
 
 ---
