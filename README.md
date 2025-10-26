@@ -20,7 +20,7 @@ As a UX Developer, I love making users’ lives easier by enhancing workflows an
   <a href="https://www.latex-project.org/get/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/emanuelenardi/EmanueleNardi/refs/heads/main/latex-white.svg" width="100" alt="LaTeX" />
   </a>
 
-  I advocate for LaTeX because it lets me turn ideas into clean, structured documents that look as professional as they deserve.
+  I **advocate for LaTeX** because it lets me turn ideas into clean, structured documents that look as professional _as they deserve_.
 
   ### Daily workflow
 
@@ -32,7 +32,7 @@ As a UX Developer, I love making users’ lives easier by enhancing workflows an
     <a href="" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" width="40" alt="bash" /></a>
   </p>
 
-  These are **the tools I rely on every day** to stay organized, focused, and make progress without losing my mind.
+  These are **the tools I rely on every day** to stay organized, focused, and make progress _without_ losing my mind.
 
   ### Programming languages
 
@@ -56,7 +56,7 @@ As a UX Developer, I love making users’ lives easier by enhancing workflows an
     <a href="https://graphql.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" height="40" width="40" alt="graphql" /></a>
   </p>
 
-  These **frameworks and libraries** are the backbone of my workflow. They help me move faster, keep things tidy, and focus on creating experiences that make sense.
+  These **frameworks and libraries** are the backbone of my workflow. They help me move faster, keep things tidy, and focus on creating experiences _that make sense_.
 
   ### Deployment platforms
 
