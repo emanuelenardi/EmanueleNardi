@@ -69,7 +69,19 @@ As a UX Developer, I love making users’ lives easier by enhancing workflows an
     <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="40" alt="docker" /></a>
     <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="40" width="40" alt="githubactions" /></a>
     <a href="https://github.com/features/codespaces" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" height="40" width="40" alt="githubcodespaces" /></a>
-    <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer"><img src="vercel-original.svg" height="40" width="40" alt="vercel" /></a>
+    <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer">
+      <picture>
+        <source
+          srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
+          media="(prefers-color-scheme: light)" />
+        <source
+          srcset="https://raw.githubusercontent.com/emanuelenardi/EmanueleNardi/main/vercel-original.svg"
+          media="(prefers-color-scheme: dark)" />
+        <img
+          src="https://raw.githubusercontent.com/emanuelenardi/EmanueleNardi/main/vercel-original.svg"
+          height="40"
+          width="40"
+          alt="Vercel" /></picture></a>
     <a href="https://www.cloudflare.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" height="40" width="40" alt="cloudflare" /></a>
   </p>
 
