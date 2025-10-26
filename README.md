@@ -17,7 +17,19 @@ As a UX Developer, I love making users’ lives easier by enhancing workflows an
 
   ### Tools I advocate for
 
-  <a href="https://www.latex-project.org/get/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/emanuelenardi/EmanueleNardi/refs/heads/main/latex-white.svg" width="100" alt="LaTeX" />
+  <a href="https://www.latex-project.org/get/" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source
+        srcset="https://raw.githubusercontent.com/emanuelenardi/EmanueleNardi/main/latex-light-theme.svg"
+        media="(prefers-color-scheme: light)" />
+      <source
+        srcset="https://raw.githubusercontent.com/emanuelenardi/EmanueleNardi/main/latex-dark-theme.svg"
+        media="(prefers-color-scheme: dark)" />
+      <img
+        src="https://raw.githubusercontent.com/emanuelenardi/EmanueleNardi/main/latex-dark-theme.svg"
+        width="100"
+        alt="LaTeX" />
+    </picture>
   </a>
 
   I **advocate for LaTeX** because it lets me turn ideas into clean, structured documents that look as professional _as they deserve_.
