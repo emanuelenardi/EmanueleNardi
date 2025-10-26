@@ -25,7 +25,7 @@ As a UX Developer, I love making users’ lives easier by enhancing workflows an
   ### Daily workflow
 
   <p align="center">
-  <a href="https://www.microsoft.com/it-it/software-download/windows11" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="40" width="40" alt="windows11" /></a>
+    <a href="https://www.microsoft.com/it-it/software-download/windows11" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="40" width="40" alt="windows11" /></a>
     <a href="https://www.latex-project.org/get/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="40" alt="vscode" /></a>
     <a href="https://www.notion.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="40" width="40" alt="notion" /></a>
     <a href="https://pnpm.io/it/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" height="40" width="40" alt="pnpm" /></a>
@@ -37,7 +37,11 @@ As a UX Developer, I love making users’ lives easier by enhancing workflows an
   ### Programming languages
 
   <p align="center">
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40" alt="python" /></a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript" /><a href="https://pnpm.io/it/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" width="40" alt="typescript" /></a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40" alt="html5" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40" alt="css3" />
+    <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40" alt="python" /></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript" />
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" width="40" alt="typescript" /></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40" alt="html5" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40" alt="css3" />
   </p>
 
   I **use these languages** to build interfaces that not only work but _feel_ right — smooth, responsive, and human-friendly.
@@ -45,7 +49,7 @@ As a UX Developer, I love making users’ lives easier by enhancing workflows an
   ### Libraries & Tools
 
   <p align="center">
-    <a href="https://pnpm.io/it/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" width="40" alt="vitejs" /></a>
+    <a href="https://vite.dev/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" width="40" alt="vitejs" /></a>
     <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="40" width="40" alt="vuejs" /></a>
     <a href="https://vuetifyjs.com/en/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" height="40" width="40" alt="vuetify" /></a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" width="40" alt="tailwindcss" /></a>
