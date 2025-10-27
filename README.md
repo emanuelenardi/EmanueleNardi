@@ -126,3 +126,5 @@ As a UX Developer, I love making users’ lives easier by enhancing workflows an
 ---
 
 ✨ *I'm passionate about crafting seamless user experiences and clean interfaces that make technology feel effortless.*
+
+[![Emanuele Nardi profile views](https://u8views.com/api/v1/github/profiles/15109661/views/day-week-month-total-count.svg)](https://u8views.com/github/emanuelenardi)
