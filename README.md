@@ -42,6 +42,7 @@ As a UX Developer, I love making users’ lives easier by enhancing workflows an
     <a href="https://www.notion.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="40" width="40" alt="notion" /></a>
     <a href="https://www.overleaf.com/" target="_blank" rel="noopener noreferrer"><img src="https://images.ctfassets.net/nrgyaltdicpt/451Wbu94Q1X3M5QIk74QLL/08e42061e965fb152a329ded74cdc3ce/overleaf-o-logo-primary.svg" height="40" width="40" alt="notion" /></a>
     <a href="https://pnpm.io/it/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" height="40" width="40" alt="pnpm" /></a>
+    <a href="https://bun.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" height="45" width="45" alt="bun" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" width="40" alt="bash" /></a>
   </p>
 
