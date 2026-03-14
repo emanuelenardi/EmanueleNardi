@@ -3,9 +3,10 @@
 As a UX Developer, I love making users’ lives easier by enhancing workflows and creating cleaner, more intuitive interfaces.
 
 - 🔭 Currently building dashboards for managing events and organizing tournaments;
+- 📝 Developing a Pauper Magic blog platform: [blog.pauperwave.org](https://test.pauperwave.org)
+- 🍕 Designing an experimental interactive restaurant menu concept: [korallo.pizza](https://korallo.pizza)
 - 🌱 Learning Vue3 and Nuxt4;
 - 👯 Working solo for now, not open to collaborations;
-- 🤔 Always looking for tips on optimizing React state management 😂;
 - 💬 Ask me about photography, UI design, or LaTeX;
 - 📫 Reach me at emanuelenardi.dev@gmail.com;
 - ⚡ Fun fact: I box, code, and love crafting typographically rich documents.
