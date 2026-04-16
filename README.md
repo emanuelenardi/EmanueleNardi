@@ -37,53 +37,60 @@ As a UX Developer, I love making users’ lives easier by enhancing workflows an
 
   ### Daily workflow
 
-  <p align="center">
-    <a href="https://www.microsoft.com/it-it/software-download/windows11" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="40" width="40" alt="windows11" /></a>
-    <a href="https://www.latex-project.org/get/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="40" alt="vscode" /></a>
-    <a href="https://www.notion.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="40" width="40" alt="notion" /></a>
-    <a href="https://www.overleaf.com/" target="_blank" rel="noopener noreferrer"><img src="https://images.ctfassets.net/nrgyaltdicpt/451Wbu94Q1X3M5QIk74QLL/08e42061e965fb152a329ded74cdc3ce/overleaf-o-logo-primary.svg" height="40" width="40" alt="notion" /></a>
-    <a href="https://pnpm.io/it/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" height="40" width="40" alt="pnpm" /></a>
-    <a href="https://bun.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" height="45" width="45" alt="bun" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" width="40" alt="bash" /></a>
-  </p>
+<table>
+  <tr>
+    <td align="center"><a href="https://www.microsoft.com/it-it/software-download/windows11" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="40" width="40" alt="windows11" /></a></td>
+    <td align="center"><a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="40" alt="vscode" /></a></td>
+    <td align="center"><a href="https://www.notion.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="40" width="40" alt="notion" /></a></td>
+    <td align="center"><a href="https://www.overleaf.com/" target="_blank" rel="noopener noreferrer"><img src="https://images.ctfassets.net/nrgyaltdicpt/451Wbu94Q1X3M5QIk74QLL/08e42061e965fb152a329ded74cdc3ce/overleaf-o-logo-primary.svg" height="40" width="40" alt="overleaf" /></a></td>
+    <td align="center"><a href="https://pnpm.io/it/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" height="40" width="40" alt="pnpm" /></a></td>
+    <td align="center"><a href="https://bun.sh/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" height="45" width="45" alt="bun" /></a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" width="40" alt="bash" /></a></td>
+  </tr>
+</table>
 
   These are **the tools I rely on every day** to stay organized, focused, and make progress _without_ losing my mind.
 
   ### Programming languages
 
-  <p align="center">
-    <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40" alt="python" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript" /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" width="40" alt="typescript" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40" alt="html5" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40" alt="css3" /></a>
-  </p>
+<table>
+  <tr>
+    <td align="center"><a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40" alt="python" /></a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript" /></a></td>
+    <td align="center"><a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" width="40" alt="typescript" /></a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40" alt="html5" /></a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40" alt="css3" /></a></td>
+  </tr>
+</table>
 
   I **use these languages** to build interfaces that not only work but _feel_ right — smooth, responsive, and human-friendly.
   
   ### Libraries & Tools
 
-  <p align="center">
-    <a href="https://vite.dev/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" width="40" alt="vitejs" /></a>
-    <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="40" width="40" alt="vuejs" /></a>
-    <a href="https://vuetifyjs.com/en/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" height="40" width="40" alt="vuetify" /></a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" width="40" alt="tailwindcss" /></a>
-    <a href="https://nuxt.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxt/nuxt-original.svg" height="40" width="40" alt="nuxt" /></a>
-    <a href="https://eslint.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" height="40" width="40" alt="eslint" /></a>
-    <a href="https://vitest.dev/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" height="40" width="40" alt="vitest" /></a>
-    <a href="https://supabase.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" width="40" alt="supabase" /></a>
-    <a href="https://graphql.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" height="40" width="40" alt="graphql" /></a>
-  </p>
+<table>
+  <tr>
+    <td align="center"><a href="https://vite.dev/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" width="40" alt="vitejs" /></a></td>
+    <td align="center"><a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="40" width="40" alt="vuejs" /></a></td>
+    <td align="center"><a href="https://vuetifyjs.com/en/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" height="40" width="40" alt="vuetify" /></a></td>
+    <td align="center"><a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" width="40" alt="tailwindcss" /></a></td>
+    <td align="center"><a href="https://nuxt.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxt/nuxt-original.svg" height="40" width="40" alt="nuxt" /></a></td>
+    <td align="center"><a href="https://eslint.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" height="40" width="40" alt="eslint" /></a></td>
+    <td align="center"><a href="https://vitest.dev/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" height="40" width="40" alt="vitest" /></a></td>
+    <td align="center"><a href="https://supabase.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" width="40" alt="supabase" /></a></td>
+    <td align="center"><a href="https://graphql.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" height="40" width="40" alt="graphql" /></a></td>
+  </tr>
+</table>
 
   These **frameworks and libraries** are the backbone of my workflow. They help me move faster, keep things tidy, and focus on creating experiences _that make sense_.
 
   ### Deployment platforms
 
-  <p align="center">
-    <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="40" alt="docker" /></a>
-    <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="40" width="40" alt="githubactions" /></a>
-    <a href="https://github.com/features/codespaces" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" height="40" width="40" alt="githubcodespaces" /></a>
-    <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer">
+<table>
+  <tr>
+    <td align="center"><a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="40" alt="docker" /></a></td>
+    <td align="center"><a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="40" width="40" alt="githubactions" /></a></td>
+    <td align="center"><a href="https://github.com/features/codespaces" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" height="40" width="40" alt="githubcodespaces" /></a></td>
+    <td align="center"><a href="https://vercel.com/" target="_blank" rel="noopener noreferrer">
       <picture>
         <source
           srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
@@ -95,9 +102,10 @@ As a UX Developer, I love making users’ lives easier by enhancing workflows an
           src="https://raw.githubusercontent.com/emanuelenardi/EmanueleNardi/main/vercel-original.svg"
           height="40"
           width="40"
-          alt="Vercel" /></picture></a>
-    <a href="https://www.cloudflare.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" height="40" width="40" alt="cloudflare" /></a>
-  </p>
+          alt="Vercel" /></picture></a></td>
+    <td align="center"><a href="https://www.cloudflare.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" height="40" width="40" alt="cloudflare" /></a></td>
+  </tr>
+</table>
 
   I **deploy my projects** where they can run safely, scale easily, and be available whenever someone needs them.
 
