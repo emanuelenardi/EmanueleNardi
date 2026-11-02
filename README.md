@@ -90,47 +90,11 @@ As a Full-Stack Developer with a UX eye, I love making users’ lives easier by 
     <td align="center"><a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="40" alt="docker" /></a></td>
     <td align="center"><a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="40" width="40" alt="githubactions" /></a></td>
     <td align="center"><a href="https://github.com/features/codespaces" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" height="40" width="40" alt="githubcodespaces" /></a></td>
-    <td align="center"><a href="https://vercel.com/" target="_blank" rel="noopener noreferrer">
-      <picture>
-        <source
-          srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
-          media="(prefers-color-scheme: light)" />
-        <source
-          srcset="https://raw.githubusercontent.com/emanuelenardi/EmanueleNardi/main/vercel-original-dark-theme.svg"
-          media="(prefers-color-scheme: dark)" />
-        <img
-          src="https://raw.githubusercontent.com/emanuelenardi/EmanueleNardi/main/vercel-original.svg"
-          height="40"
-          width="40"
-          alt="Vercel" /></picture></a></td>
     <td align="center"><a href="https://www.cloudflare.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" height="40" width="40" alt="cloudflare" /></a></td>
   </tr>
 </table>
 
   I **deploy my projects** where they can run safely, scale easily, and be available whenever someone needs them.
-
-  <picture>
-    <source
-      srcset="https://github-readme-stats-phi-three-56.vercel.app/api?username=emanuelenardi&commits_year=2026&hide=prs&show_icons=true&theme=github_dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats-phi-three-56.vercel.app/api?username=emanuelenardi&commits_year=2026&hide=prs&show_icons=true&theme=rose"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats-phi-three-56.vercel.app/api?username=emanuelenardi&commits_year=2026&hide=prs&show_icons=true" />
-  </picture>
-  <picture>
-    <source
-      srcset="https://github-readme-stats-phi-three-56.vercel.app/api/top-langs/?username=emanuelenardi&layout=compact&theme=github_dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats-phi-three-56.vercel.app/api/top-langs/?username=emanuelenardi&layout=compact&theme=rose"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats-phi-three-56.vercel.app/api/top-langs/?username=emanuelenardi&layout=compact" />
-  </picture>
 </div>
 
 ---
