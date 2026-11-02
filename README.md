@@ -1,39 +1,26 @@
+<div align="center">
+  <img src="header.gif" width="300" alt="Cat catching a Magic: The Gathering card" />
+</div>
+
 # Hi there 👋🏻
 
 As a Full-Stack Developer with a UX eye, I love making users’ lives easier by enhancing workflows and creating cleaner, more intuitive interfaces.
 
-- 🔭 Currently building dashboards for managing events and organizing tournaments: [league.pauperwave.org](https://league.pauperwave.org/)
+- 🌊 Part of the Pauper Magic community behind [pauperwave.org](https://pauperwave.org/)
+- 🔭 Currently building dashboards for managing events and organizing tournaments: [app.pauperwave.org](https://app.pauperwave.org/)
 - 📝 Developing a Pauper Magic blog platform: [blog.pauperwave.org](https://blog.pauperwave.org)
-- 🍕 Architecting a multi-tenant digital menu platform, starting from [korallo.pizza](https://korallo.pizza)
-- 📚 Maintaining a LaTeX thesis-writing guide for University of Trento students: [emanuelenardi.github.io/latex](https://emanuelenardi.github.io/latex/)
 - 🌱 Exploring multi-tenant architecture, Postgres/Supabase, and row-level security;
 - 👯 Mostly solo work, with collaborators on select projects;
-- 💬 Ask me about photography, UI/information architecture, or LaTeX;
-- 📫 Reach me at emanuelenardi.dev@gmail.com;
-- ⚡ Fun fact: I box, code, and love crafting typographically rich documents.
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuelenardi/)
+- 💬 Ask me about photography or UI/information architecture;
+- 📫 Reach me at emanuelenardi.dev@gmail.com.
 
 <div align=center>
 
   ### Tools I advocate for
 
-  <a href="https://www.latex-project.org/get/" target="_blank" rel="noopener noreferrer">
-    <picture>
-      <source
-        srcset="https://raw.githubusercontent.com/emanuelenardi/EmanueleNardi/main/latex-light-theme.svg"
-        media="(prefers-color-scheme: light)" />
-      <source
-        srcset="https://raw.githubusercontent.com/emanuelenardi/EmanueleNardi/main/latex-dark-theme.svg"
-        media="(prefers-color-scheme: dark)" />
-      <img
-        src="https://raw.githubusercontent.com/emanuelenardi/EmanueleNardi/main/latex-dark-theme.svg"
-        width="100"
-        alt="LaTeX" />
-    </picture>
-  </a>
+  <a href="https://nuxt.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxt/nuxt-original.svg" height="100" width="100" alt="nuxt" /></a>
 
-  I **advocate for LaTeX** because it lets me turn ideas into clean, structured documents that look as professional _as they deserve_.
+  I **advocate for Nuxt** because it gives me a solid, batteries-included foundation to build fast, accessible and well-structured web apps.
 
   ### Daily workflow
 
@@ -100,5 +87,3 @@ As a Full-Stack Developer with a UX eye, I love making users’ lives easier by 
 ---
 
 ✨ *I'm passionate about crafting seamless user experiences and clean interfaces that make technology feel effortless.*
-
-[![Emanuele Nardi profile views](https://u8views.com/api/v1/github/profiles/15109661/views/day-week-month-total-count.svg)](https://u8views.com/github/emanuelenardi)
