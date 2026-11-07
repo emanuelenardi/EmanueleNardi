@@ -8,6 +8,6 @@ Full-Stack Developer with a UX eye, building with Nuxt.
 
 Projects, blog and everything else live on my site: **[emanuelenardi.dev](https://emanuelenardi.dev)**
 
-- 🌊 Part of the Pauper Magic community behind [pauperwave.org](https://pauperwave.org/): tournament dashboards at [app.pauperwave.org](https://app.pauperwave.org/) and a blog platform at [blog.pauperwave.org](https://blog.pauperwave.org)
+- 🌊 Part of the Pauper Magic community behind [pauperwave.org](https://pauperwave.org/): [Upkeep](https://upkeep.pauperwave.org/), the dashboard for running clubs and tournaments, and a blog platform at [blog.pauperwave.org](https://blog.pauperwave.org)
 - 💬 Ask me about photography or UI/information architecture
 - 📫 Reach me at emanuelenardi.dev@gmail.com
