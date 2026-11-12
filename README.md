@@ -4,9 +4,9 @@
 
 # Hi there 👋🏻
 
-Full-Stack Developer with a UX eye, building with Nuxt.
+Full-Stack Developer with a UX eye, building with Vue and Nuxt.
 
-Projects, blog and everything else live on my site: **[emanuelenardi.dev](https://emanuelenardi.dev)**
+Projects, blog and everything else live on my site: **[emanuelenardi.com](https://emanuelenardi.com)**
 
 - 🌊 Part of the Pauper Magic community behind [pauperwave.org](https://pauperwave.org/): [Upkeep](https://upkeep.pauperwave.org/), the dashboard for running clubs and tournaments, and a blog platform at [blog.pauperwave.org](https://blog.pauperwave.org)
 - 💬 Ask me about photography or UI/information architecture
